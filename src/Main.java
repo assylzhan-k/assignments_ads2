@@ -16,7 +16,6 @@ class BankAccount {
         System.out.println(username + " – Balance: " + balance);
     }
 }
-
 public class Main {
     public static void main(String[] args) {
         LinkedList<BankAccount> accounts = new LinkedList<>();
