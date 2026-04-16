@@ -1,6 +1,4 @@
-# 📘 Banking System Project Report
-
-## 👤 Student Information
+#  Banking System Project Report
 
 **Name:** [Assylzhan Kishibayeva]
 **Group:** [SE-2512]
